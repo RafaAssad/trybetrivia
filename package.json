@@ -1,5 +1,4 @@
 {
-  "homepage": "http://RafaAssad.github.io/trybetrivia",
   "name": "trybetrivia",
   "version": "0.1.0",
   "private": true,
@@ -21,8 +20,6 @@
     "redux-thunk": "^2.3.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "cy": "cypress run",
     "cy:open": "cypress open",
     "start": "react-scripts start",
