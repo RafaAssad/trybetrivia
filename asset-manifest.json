@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/trybetrivia/static/css/main.49b3b412.chunk.css",
+    "main.js": "/trybetrivia/static/js/main.1308be07.chunk.js",
+    "main.js.map": "/trybetrivia/static/js/main.1308be07.chunk.js.map",
+    "runtime-main.js": "/trybetrivia/static/js/runtime-main.83f27215.js",
+    "runtime-main.js.map": "/trybetrivia/static/js/runtime-main.83f27215.js.map",
+    "static/css/2.25d8efc1.chunk.css": "/trybetrivia/static/css/2.25d8efc1.chunk.css",
+    "static/js/2.0f4d08d3.chunk.js": "/trybetrivia/static/js/2.0f4d08d3.chunk.js",
+    "static/js/2.0f4d08d3.chunk.js.map": "/trybetrivia/static/js/2.0f4d08d3.chunk.js.map",
+    "index.html": "/trybetrivia/index.html",
+    "precache-manifest.bf4ff0dc470302b32f45efb005518a62.js": "/trybetrivia/precache-manifest.bf4ff0dc470302b32f45efb005518a62.js",
+    "service-worker.js": "/trybetrivia/service-worker.js",
+    "static/css/2.25d8efc1.chunk.css.map": "/trybetrivia/static/css/2.25d8efc1.chunk.css.map",
+    "static/css/main.49b3b412.chunk.css.map": "/trybetrivia/static/css/main.49b3b412.chunk.css.map",
+    "static/js/2.0f4d08d3.chunk.js.LICENSE": "/trybetrivia/static/js/2.0f4d08d3.chunk.js.LICENSE",
+    "static/media/abertura2.mp3": "/trybetrivia/static/media/abertura2.900f926c.mp3",
+    "static/media/certaResposta.mp3": "/trybetrivia/static/media/certaResposta.52a5358a.mp3",
+    "static/media/champions.mp3": "/trybetrivia/static/media/champions.af53b946.mp3",
+    "static/media/gif1.gif": "/trybetrivia/static/media/gif1.55a61b6c.gif",
+    "static/media/gif2.gif": "/trybetrivia/static/media/gif2.bca30f5f.gif",
+    "static/media/levelComplete.mp3": "/trybetrivia/static/media/levelComplete.2f1af7e9.mp3",
+    "static/media/App.css": "/trybetrivia/static/media/matrix.3d32ec73.gif",
+    "static/media/quePena.mp3": "/trybetrivia/static/media/quePena.352bdb3d.mp3",
+    "static/media/seisbraco.png": "/trybetrivia/static/media/seisbraco.d8470a2e.png",
+    "static/media/suspense.mp3": "/trybetrivia/static/media/suspense.6beee821.mp3",
+    "static/media/trophy.gif": "/trybetrivia/static/media/trophy.beb31494.gif",
+    "static/media/underground.mp3": "/trybetrivia/static/media/underground.6432b40a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83f27215.js",
+    "static/css/2.25d8efc1.chunk.css",
+    "static/js/2.0f4d08d3.chunk.js",
+    "static/css/main.49b3b412.chunk.css",
+    "static/js/main.1308be07.chunk.js"
+  ]
+}
